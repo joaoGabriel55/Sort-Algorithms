@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="10" Column="11"/>
+		</File>
+		<File Name="ordenacoes\BubbleSort.cpp" Top="Yes" Tabpos="2" TopLine="1">
+			<Cursor Line="14" Column="3"/>
+		</File>
+		<File Name="ordenacoes\BubbleSort.h" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="4" Column="7"/>
+			<Selection Line="4" Column="12"/>
+		</File>
+	</Files>
+	<Folders>
+		<Folder Name="ordenacoes" Expanded="Yes"/>
+		<Folder Name="util" Expanded="Yes"/>
+	</Folders>
+</Layout>
